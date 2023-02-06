@@ -1,0 +1,6 @@
+
+torch
+torchvision
+gradio
+albumentations
+numpy
