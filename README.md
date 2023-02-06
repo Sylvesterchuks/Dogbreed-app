@@ -12,6 +12,7 @@ license: mit
 # ImageWoof Classification
 ![](https://miro.medium.com/max/2240/1*e84otk0ul3xS_65l94qWeA.png)
 
+<a href= "https://huggingface.co/spaces/Chukwuka/Dog_Breed_ImageWoof"> Click on this link to try out ImageWoof DogBreed App</a>
 ## Problem Statement And Description
 A subset of 10 harder to classify classes from Imagenet (all dog breeds): Australian terrier, Border terrier, Samoyed, beagle, Shih-Tzu, English foxhound, Rhodesian ridgeback, dingo, golden retriever, Old English sheepdog.
 
