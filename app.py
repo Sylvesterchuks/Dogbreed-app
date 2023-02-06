@@ -76,7 +76,7 @@ def predict(img) -> Tuple[Dict, float]:
 # Create title, description and article strings
 title= 'DogBreed Mini 🐩🐶🦮🐕‍🦺'
 description = "An EfficientNetB2 feature extractor computer vision model to classify images of Dog breeds."
-article = "<p>ImageWoof Created by Chukwuka </p><p style='text-align: center'><a href='https://github.com/Sylvesterchuks/foodvision-app'>Github Repo</a></p>"
+article = "<p>ImageWoof Created by Chukwuka </p><p style='text-align: center'><a href='https://github.com/Sylvesterchuks/dogbreed_app'>Github Repo</a></p>"
 
 
 # Create examples list from "examples/" directory
